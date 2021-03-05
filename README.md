@@ -5,7 +5,7 @@ Rasa framework allowing developers to implement bots for production grade.
 
 I want to add some add-ons to make your development easier.
 
-  ***An Open Source add-ons for Rasa training data.***
+  ***Open Source add-ons for Rasa training data.***
 
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
